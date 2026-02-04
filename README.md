@@ -1,5 +1,4 @@
-I am Lingesh M, a Python and Web Developer with hands-on experience in building full-stack web applications, automation tools, real-time systems, and IoT solutions.
-
+<p align="center">I am Lingesh M, a Python and Web Developer with hands-on experience in building full-stack web applications, automation tools, real-time systems, and IoT solutions.</p>
 Key Qualifications & Skills:
 ✔ Python (Django, Flask, SQLAlchemy)
 ✔ Web Development (HTML5, CSS3, JavaScript, ReactJS, Bootstrap, Tailwind, Bulma)
