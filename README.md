@@ -17,7 +17,7 @@
 
 <li><a href="https://google.com/search?q=bca">✔ Completed BCA</a></li>
 
-<li>✔ Currently pursuing MCA</li>
+<li><a href="https://google.com/search?q=mca">✔ Currently pursuing MCA</a></li>
 
 <h2>IoT Projects & Roles:</h2>
 
