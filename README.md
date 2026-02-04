@@ -15,7 +15,7 @@
 
 <h2>Education:</h2>
 
-<li>✔ Completed BCA</li>
+<li><a href="https://google.com/search?q=bca">✔ Completed BCA</a></li>
 
 <li>✔ Currently pursuing MCA</li>
 
