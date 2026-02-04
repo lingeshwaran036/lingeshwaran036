@@ -15,7 +15,7 @@
 
 <h2>Education:</h2>
 
-<code>✔ Completed BCA</code>
+<li>✔ Completed BCA</li>
 
 <li>✔ Currently pursuing MCA</li>
 
@@ -23,11 +23,11 @@
 
 <li>✔ Street Light Damage Detection – Designed and implemented IoT sensors to detect damage/faulty street lights and notify authorities.</li>
 
-<p>✔ Smart Hand Gestures – Developed an IoT-based hand gesture recognition system for interactive device control.</p>
+<li>✔ Smart Hand Gestures – Developed an IoT-based hand gesture recognition system for interactive device control.</li>
 
-<p>Delivered projects include Student Management Systems, Recipe Sharing Platforms, Road Accident Detection, Telegram/Discord Bots, E-commerce and Booking Applications, among others.</p>
+<li>Delivered projects include Student Management Systems, Recipe Sharing Platforms, Road Accident Detection, Telegram/Discord Bots, E-commerce and Booking Applications, among others.</li>
 
-<p>Passionate about creating scalable and practical solutions, exploring new technologies, and continuously enhancing my technical and analytical skills.</p>
+<li>Passionate about creating scalable and practical solutions, exploring new technologies, and continuously enhancing my technical and analytical skills.</li>
 
 <!--
 **lingeshwaran036/lingeshwaran036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
