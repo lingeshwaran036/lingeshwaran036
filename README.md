@@ -1,23 +1,33 @@
 <p align="center">I am Lingesh M, a Python and Web Developer with hands-on experience in building full-stack web applications, automation tools, real-time systems, and IoT solutions.</p>
-Key Qualifications & Skills:
-✔ Python (Django, Flask, SQLAlchemy)
-✔ Web Development (HTML5, CSS3, JavaScript, ReactJS, Bootstrap, Tailwind, Bulma)
-✔ Java Full Stack Development (Currently studying at Nirmaan Organisation)
-✔ Database Management (MySQL, SQLite)
-✔ Version Control & Collaboration (Git, GitHub)
-✔ Project Handling & Real-World Problem Solving
 
-Education:
-✔ Completed BCA
-✔ Currently pursuing MCA
+<h2>Key Qualifications & Skills:</h2>
+<li>✔ Python (Django, Flask, SQLAlchemy)</li>
 
-IoT Projects & Roles:
-✔ Street Light Damage Detection – Designed and implemented IoT sensors to detect damage/faulty street lights and notify authorities.
-✔ Smart Hand Gestures – Developed an IoT-based hand gesture recognition system for interactive device control.
+<li>✔ Web Development (HTML5, CSS3, JavaScript, ReactJS, Bootstrap, Tailwind, Bulma)</li>
 
-Delivered projects include Student Management Systems, Recipe Sharing Platforms, Road Accident Detection, Telegram/Discord Bots, E-commerce and Booking Applications, among others.
+<li>✔ Java Full Stack Development (Currently studying at Nirmaan Organisation)</li>
 
-Passionate about creating scalable and practical solutions, exploring new technologies, and continuously enhancing my technical and analytical skills.
+<li>✔ Database Management (MySQL, SQLite)</li>
+
+<li>✔ Version Control & Collaboration (Git, GitHub)</li>
+
+<li>✔ Project Handling & Real-World Problem Solving</li>
+
+<h2>Education:</h2>
+
+<code>✔ Completed BCA</code>
+
+<li>✔ Currently pursuing MCA</li>
+
+<h2>IoT Projects & Roles:</h2>
+
+<li>✔ Street Light Damage Detection – Designed and implemented IoT sensors to detect damage/faulty street lights and notify authorities.</li>
+
+<p>✔ Smart Hand Gestures – Developed an IoT-based hand gesture recognition system for interactive device control.</p>
+
+<p>Delivered projects include Student Management Systems, Recipe Sharing Platforms, Road Accident Detection, Telegram/Discord Bots, E-commerce and Booking Applications, among others.</p>
+
+<p>Passionate about creating scalable and practical solutions, exploring new technologies, and continuously enhancing my technical and analytical skills.</p>
 
 <!--
 **lingeshwaran036/lingeshwaran036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
